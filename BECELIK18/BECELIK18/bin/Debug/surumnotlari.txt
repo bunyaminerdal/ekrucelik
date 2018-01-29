@@ -1,0 +1,36 @@
+[SURUMNOTLARI]
+SURUMNOTUSAYISI=5
+[note-0]
+notsayisi=1
+versiyon=0.0.1
+yayýnlanmaTarihi=01.11.2017
+not-0=Kar yükü bileþeni eklendi, tek yöne ve çift yöne eðimli çatý için çözüm eklendi.
+
+[note-1]
+notsayisi=2
+versiyon=0.0.2
+yayýnlanmaTarihi=01.01.2018
+not-0=single instance aplication modu aktif hale getirildi.
+not-1=kaydedilen projenin birlikte aç komutuyla direk açýlmasý eklendi.
+
+[note-2]
+notsayisi=3
+versiyon=0.0.3
+yayýnlanmaTarihi=22.01.2018
+not-0=Giriþ ekranýnda sürüm notlarý eklendi.
+not-1=Yeni dosya okuma sistemine geçildi.
+not-2=Bazý görüntü düzenlemeleri ve Ekran boyut ayarlamalarý yapýldý.
+
+[note-3]
+notsayisi=2
+versiyon=0.0.4
+yayýnlanmaTarihi=23.01.2018
+not-0= Sayý girilen yazý kutularýnda ondalýk ayraç sorunu çözüldü.
+not-1= Birden fazla ondalýk ayraç girilmesi engellendi.
+
+[note-4]
+notsayisi=1
+versiyon=0.0.5
+yayýnlanmaTarihi=25.01.2018
+not-0= "Bileþen sil" aktif hale getirildi.
+
